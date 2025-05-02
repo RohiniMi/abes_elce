@@ -1,1 +1,22 @@
-{"name":"abc","email":"abc@gmail.com","password":"1234@@"}
+[
+  {
+    "name": "rohini",
+    "email": "rohini@gmail.com",
+    "password": "rohi1234@"
+  },
+  {
+    "name": "rohini",
+    "email": "rohini@gmail.com",
+    "password": "rohi1234@"
+  },
+  {
+    "name": "rohini",
+    "email": "rohini@gmail.com",
+    "password": "rohi1234@"
+  },
+  {
+    "name": "rohini",
+    "email": "rohini@gmail.com",
+    "password": "rohi1234@"
+  }
+]
